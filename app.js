@@ -1,6 +1,6 @@
 
 /* Otherwise just put the config content (json): */
-/*MADE BY SAURABH YADAV AS A Project*/
+/*MADE BY Adarsh Patel AS A Project*/
 
 particlesJS('particles-js',
   
